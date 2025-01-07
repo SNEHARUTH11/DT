@@ -1,0 +1,11 @@
+{
+    "title": "Welcome to My Dynamic Page",
+    "header": "Hello World!",
+    "description": "This page loads content dynamically using JSON input. It is styled to match a Figma design.",
+    "button": {
+      "text": "Click Me!",
+      "url": "https://joyful-sunshine-80a088.netlify.app/"
+    },
+    "footer": "© 2025 Dynamic Webpage"
+  }
+  
